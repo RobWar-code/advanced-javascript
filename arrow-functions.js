@@ -15,7 +15,8 @@ const sumit_2 = (a, b) => {
 }
 console.log(sumit_2(7,8));
 
-// Single Line Arrow Function With Parameters
+// Single Line Arrow Function With Parameters, note that where necessary, single 
+// line arrow functions can be enclosed in parentheses
 const sumit_3 = (a, b) => a + b;
 console.log(sumit_3(9, 10));
 
